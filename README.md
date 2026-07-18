@@ -2,7 +2,13 @@
 <h3 align="center">Backend Developer | AI-Integrated Systems | Spring Boot & Java Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A6ED&center=true&vCenter=true&width=600&lines=Building+AI-powered+backend+systems;Spring+Boot+%7C+MongoDB+%7C+System+Design;Currently+building+a+fitness+recommender+with+Gemini+API" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A6ED&center=true&vCenter=true&width=700&lines=Building+AI-powered+backend+systems;Spring+Boot+%7C+MongoDB+%7C+System+Design;Just+shipped+a+MERN+online+judge+platform;Now+exploring+ML+%3A+regression+%26+classification" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharad-31&label=Profile%20Views&color=00A6ED&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/sharad-gupta-98bba8266"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sharadgupta8171@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -15,17 +21,56 @@
 - 👯 Open to collaborating on **backend-heavy** and **AI-integrated** projects
 - ⚙️ Focused on **Java**, **Spring Boot**, and **scalable system design**
 
+---
+
+### 🚀 Featured Projects
+
+<details open>
+<summary><b>⚖️ Online Judge — MERN Stack Coding Platform</b></summary>
+<br>
+
+A full-stack online judge where users can write and submit code in **4 programming languages** and get instant judging — built end-to-end on the **MERN stack**.
+
+`MongoDB` `Express.js` `React` `Node.js`
+
+</details>
+
+<details>
+<summary><b>🏋️ Fitness Recommendation System — Gemini API</b></summary>
+<br>
+
+An AI-powered fitness recommender that integrates Google's **Gemini API** to generate personalized suggestions.
+
+`Spring Boot` `MongoDB` `Gemini API`
+
+</details>
+
+<details>
+<summary><b>🎯 Want the full list?</b></summary>
+<br>
+
+Check out my <a href="https://github.com/sharad-31?tab=repositories">pinned & other repositories →</a>
+
+</details>
+
+---
+
 ### 🌱 Currently Learning
 
-- Advanced Spring Boot & Microservices
-- System Design fundamentals
-- Data Structures & Problem Solving
+<details>
+<summary><b>Click to expand</b></summary>
+<br>
+
+- 🤖 **Machine Learning** — Regression & Classification basics
+- 🍃 Advanced Spring Boot & Microservices
+- 🧩 System Design fundamentals
+- 🧠 Data Structures & Problem Solving
+
+</details>
 
 ### 💬 Ask Me About
 
-- Java & Backend Development
-- Spring Boot Projects
-- REST APIs & System Design Basics
+`Java & Backend Development` `Spring Boot` `REST APIs & System Design` `MERN Stack` `ML Basics (Regression/Classification)`
 
 ### ⚡ Fun Fact
 
@@ -51,13 +96,20 @@ I enjoy **debugging** systems more than building them 😄🚀
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <p align="left">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ### 📊 GitHub Stats
@@ -69,6 +121,10 @@ I enjoy **debugging** systems more than building them 😄🚀
 
 <p align="left">
 <img src="https://nirzak-streak-stats.vercel.app/?user=sharad-31&theme=dark&hide_border=false" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharad-31&theme=react-dark&hide_border=false" alt="activity graph" />
 </p>
 
 ---
