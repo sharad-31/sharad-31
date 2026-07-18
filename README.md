@@ -1,107 +1,136 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Sharad 👋</h1>
+<h3 align="center">Backend Developer | AI-Integrated Systems | Spring Boot & Java Enthusiast</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Sharad&fontSize=60&fontColor=22C55E&fontAlignY=35&desc=Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20AI-Integrated%20Systems&descAlignY=55&descSize=18&descColor=F8FAFC&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A6ED&center=true&vCenter=true&width=700&lines=Building+AI-powered+backend+systems;Spring+Boot+%7C+MongoDB+%7C+System+Design;Just+shipped+a+MERN+online+judge+platform;Now+exploring+ML+%3A+regression+%26+classification" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=22C55E&background=0F172A00&center=true&vCenter=true&width=650&lines=%24+whoami;backend-developer+%7C+java+%7C+spring-boot;%24+currently_building+online-judge+(MERN);%24+learning+ml+--basics+regression+classification" alt="terminal typing" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharad-31&label=Profile%20Views&color=00A6ED&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/sharad-gupta-98bba8266"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sharadgupta8171@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
+---
+
+### 🔭 What I'm Up To
+
+- 🏗️ Building **AI-powered backend systems** with **Spring Boot** & **MongoDB**
+- 🏋️ Developing a **fitness recommendation system** powered by the **Gemini API**
+- 🎓 Part of the **Accelerator Batch (ATF)** at **AlgoUniversity** — CGPA: **9.0**
+- 👯 Open to collaborating on **backend-heavy** and **AI-integrated** projects
+- ⚙️ Focused on **Java**, **Spring Boot**, and **scalable system design**
+
+---
+
+### 🚀 Featured Projects
+
+<details open>
+<summary><b>⚖️ Online Judge — MERN Stack Coding Platform</b></summary>
 <br>
 
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-komarev-1E293B?style=for-the-badge&labelColor=0F172A&color=22C55E" alt="spacer"/>
-<img src="https://komarev.com/ghpvc/?username=sharad-31&label=views&color=22C55E&style=for-the-badge&labelColor=0F172A" alt="Profile views" />
+A full-stack online judge where users can write and submit code in **4 programming languages** and get instant judging — built end-to-end on the **MERN stack**.
 
-</div>
+`MongoDB` `Express.js` `React` `Node.js`
 
+</details>
+
+<details>
+<summary><b>🏋️ Fitness Recommendation System — Gemini API</b></summary>
 <br>
 
-## 📟 &nbsp;whoami
+An AI-powered fitness recommender that integrates Google's **Gemini API** to generate personalized suggestions.
 
-```
-> role        Backend Developer — Java / Spring Boot / MongoDB
-> currently   Fitness recommender (Spring Boot + Gemini API)
-> shipped     Online Judge — MERN, 4-language code execution
-> learning    ML basics · Regression & Classification
-> program     Accelerator Batch (ATF) @ AlgoUniversity · CGPA 9.0
-> status      Open to backend-heavy / AI-integrated collabs
-```
+`Spring Boot` `MongoDB` `Gemini API`
 
+</details>
+
+<details>
+<summary><b>🎯 Want the full list?</b></summary>
 <br>
 
-## 🚀 &nbsp;Featured Projects
+Check out my <a href="https://github.com/sharad-31?tab=repositories">pinned & other repositories →</a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+</details>
 
-### ⚖️ Online&nbsp;Judge
-**MERN-stack coding platform**
+---
 
-Write & submit code in **4 languages**, get judged instantly. Full pipeline from submission to verdict.
+### 🌱 Currently Learning
 
-<img src="https://img.shields.io/badge/MongoDB-22C55E?style=flat-square&labelColor=0F172A&logo=mongodb&logoColor=22C55E" />
-<img src="https://img.shields.io/badge/Express-22C55E?style=flat-square&labelColor=0F172A&logo=express&logoColor=22C55E" />
-<img src="https://img.shields.io/badge/React-22C55E?style=flat-square&labelColor=0F172A&logo=react&logoColor=22C55E" />
-<img src="https://img.shields.io/badge/Node.js-22C55E?style=flat-square&labelColor=0F172A&logo=node.js&logoColor=22C55E" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🏋️ Fitness&nbsp;Recommender
-**AI-powered, Gemini API**
-
-Personalized fitness suggestions generated through Gemini API, served via a Spring Boot backend.
-
-<img src="https://img.shields.io/badge/Spring_Boot-22C55E?style=flat-square&labelColor=0F172A&logo=springboot&logoColor=22C55E" />
-<img src="https://img.shields.io/badge/MongoDB-22C55E?style=flat-square&labelColor=0F172A&logo=mongodb&logoColor=22C55E" />
-<img src="https://img.shields.io/badge/Gemini_API-22C55E?style=flat-square&labelColor=0F172A&logo=googlegemini&logoColor=22C55E" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub>→ <a href="https://github.com/sharad-31?tab=repositories">all repositories</a></sub>
-</div>
-
+<details>
+<summary><b>Click to expand</b></summary>
 <br>
 
-## 🌱 &nbsp;Currently Learning
+- 🤖 **Machine Learning** — Regression & Classification basics
+- 🍃 Advanced Spring Boot & Microservices
+- 🧩 System Design fundamentals
+- 🧠 Data Structures & Problem Solving
 
-<img src="https://img.shields.io/badge/Regression_%26_Classification-22C55E?style=for-the-badge&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/Spring_Boot_%2F_Microservices-22C55E?style=for-the-badge&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/System_Design-22C55E?style=for-the-badge&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/DSA-22C55E?style=for-the-badge&labelColor=0F172A" />
+</details>
 
-<br><br>
+### 💬 Ask Me About
 
-## 💻 &nbsp;Tech Stack
+`Java & Backend Development` `Spring Boot` `REST APIs & System Design` `MERN Stack` `ML Basics (Regression/Classification)`
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,postgres,js,py,html,c&theme=dark" />
+### ⚡ Fun Fact
 
-<br><br>
+I enjoy **debugging** systems more than building them 😄🚀
 
-## 📊 &nbsp;GitHub Stats
+---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharad-31&hide_border=true&include_all_commits=false&count_private=false&bg_color=0F172A&title_color=22C55E&icon_color=22C55E&text_color=F8FAFC&border_color=475569" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharad-31&layout=compact&hide_border=true&bg_color=0F172A&title_color=22C55E&text_color=F8FAFC&border_color=475569" />
+### 🌐 Connect With Me
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharad-31&hide_border=true&background=0F172A&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" />
+<p align="left">
+<a href="https://instagram.com/sharad_31_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sharad-gupta-98bba8266" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="https://reddit.com/user/sharad_gupta" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" /></a>
+<a href="https://x.com/Sharad_31_" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+<a href="mailto:sharadgupta8171@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharad-31&bg_color=0F172A&color=22C55E&line=22C55E&point=F8FAFC&area=true&hide_border=true" />
+### 💻 Tech Stack
 
-<br><br>
+<p align="left">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
-## 🌐 &nbsp;Connect
+<p align="left">
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-<a href="https://www.linkedin.com/in/sharad-gupta-98bba8266"><img src="https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&labelColor=0F172A&logo=linkedin&logoColor=22C55E" /></a>
-<a href="https://x.com/Sharad_31_"><img src="https://img.shields.io/badge/X-22C55E?style=for-the-badge&labelColor=0F172A&logo=x&logoColor=22C55E" /></a>
-<a href="https://instagram.com/sharad_31_"><img src="https://img.shields.io/badge/Instagram-22C55E?style=for-the-badge&labelColor=0F172A&logo=instagram&logoColor=22C55E" /></a>
-<a href="https://reddit.com/user/sharad_gupta"><img src="https://img.shields.io/badge/Reddit-22C55E?style=for-the-badge&labelColor=0F172A&logo=reddit&logoColor=22C55E" /></a>
-<a href="mailto:sharadgupta8171@gmail.com"><img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&labelColor=0F172A&logo=gmail&logoColor=22C55E" /></a>
+<p align="left">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
-<br><br>
+### 📊 GitHub Stats
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=100&section=footer" width="100%"/>
+<p align="left">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharad-31&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharad-31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
-<sub>⚡ I enjoy <b>debugging</b> systems more than building them &nbsp;·&nbsp; <a href="https://visitcount.itsvg.in">visit counter</a></sub>
+<p align="left">
+<img src="https://nirzak-streak-stats.vercel.app/?user=sharad-31&theme=dark&hide_border=false" />
+</p>
 
-</div>
+<p align="left">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharad-31&theme=react-dark&hide_border=false" alt="activity graph" />
+</p>
+
+---
+
+<p align="center">
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=sharad-31&icon=0&color=0" /></a>
+</p>
+
+<p align="center"><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
